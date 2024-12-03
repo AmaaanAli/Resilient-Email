@@ -41,10 +41,10 @@
 ## Testing Strategies
 
 **The test suite covers:**
-    -Basic email sending
-    -Duplicate email prevention
-    -Rate limiting
-    -Provider fallback
+  - Basic email sending
+  - Duplicate email prevention
+  - Rate limiting
+  - Provider fallback
 
 ## Advanced Features
   - Exponential backoff
