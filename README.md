@@ -23,19 +23,19 @@
 ## Installation
 
 **Clone the repository**
-    -git clone https://github.com/yourusername/resilient-email-service.git
-    -cd resilient-email-service
+  - git clone https://github.com/AmaaanAli/Resilient-Email.git
+  - cd resilient-email-service
 
 **Ensure Node.js is installed**
-    -node --version
+  - node --version
 
 ## Usage
 
 **Running the Demo**
-    -node emailServiceDemo.js
+  - node emailServiceDemo.js
 
 **Running Tests**
-    -node emailServiceTest.js
+  - node emailServiceTest.js
 
 
 ## Testing Strategies
